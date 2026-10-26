@@ -1,0 +1,1 @@
+export { default } from "../../default-space/carousel/carousel-08";
